@@ -1,0 +1,21 @@
+{
+  "name": "quote-agent-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/ai-text-analytics": "^5.1.0",
+    "@azure/openai": "^2.0.0",
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "quote-agent-api": "file:"
+  }
+}

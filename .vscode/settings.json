@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d202ce9b-46fc-4c6b-9874-7dd13fd5ca3e/resourceGroups/underwriterrg/providers/Microsoft.Web/sites/dbqueryagent",
+    "appService.deploySubpath": "dbqueryagent"
+}

@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=underwriterdocumentstore;AccountKey=3Rmin0YYWJLKFXTIHAJydkM/GtjLv3EFlFBWLZE2+63zuDkoVNbWjAB63o/3lc7K3zK2VL1bY1DB+AStRmLU/Q==;EndpointSuffix=core.windows.net",
+      "Access_Key": "3Rmin0YYWJLKFXTIHAJydkM/GtjLv3EFlFBWLZE2+63zuDkoVNbWjAB63o/3lc7K3zK2VL1bY1DB+AStRmLU/Q==",
+      "FUNCTIONS_WORKER_RUNTIME": "node"
+    }
+  }
+  
